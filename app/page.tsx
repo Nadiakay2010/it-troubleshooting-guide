@@ -16,7 +16,7 @@ export default function Page() {
           <div className="mx-auto grid max-w-6xl items-center gap-10 px-6 py-14 sm:px-10 sm:py-16 md:grid-cols-[1.5fr_1fr]">
             <div>
               <p className="mb-5 flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.17em] text-primary"><span className="size-1.5 rounded-full bg-primary" />A little guidance. A lot less stress.</p>
-              <h1 className="max-w-xl text-4xl font-semibold leading-[1.12] tracking-[-0.045em] text-primary sm:text-5xl lg:text-[58px]">IT Troubleshooting<br />Guide<span className="text-soft-blue">.</span></h1>
+              <h1 className="max-w-xl text-4xl font-semibold leading-[1.12] tracking-[-0.045em] text-primary sm:text-5xl lg:text-[58px]">Computer Problems?<br />Start Here<span className="text-soft-blue">.</span></h1>
               <p className="mt-5 max-w-md text-base leading-7 text-muted-foreground">Simple steps to help you solve everyday computer problems.</p>
               <a href="#topics" className="mt-7 inline-flex items-center gap-3 rounded-lg bg-primary px-5 py-3 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90">Find your problem<ArrowDown className="size-4" aria-hidden="true" /></a>
               <div className="mt-7 flex flex-wrap gap-x-5 gap-y-2 text-xs text-muted-foreground"><span className="flex items-center gap-1.5"><CircleCheck className="size-3.5" aria-hidden="true" />Beginner-friendly</span><span className="flex items-center gap-1.5"><CircleCheck className="size-3.5" aria-hidden="true" />No technical experience needed</span></div>
